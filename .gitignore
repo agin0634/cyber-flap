@@ -1,0 +1,17 @@
+.vs/
+Build/*
+
+DerivedDataCache/*
+Intermediate/*
+Binaries/*
+Saved/*
+*.sln
+*.sdf
+*.suo
+*.pdb
+*.VC.db
+
+Plugins/*/Intermediate/*
+Plugins/*/Binaries/Win64/*.pdb
+#!Plugins/*/Binaries/*
+#!Plugins/*/Source/*
